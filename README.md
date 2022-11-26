@@ -7,3 +7,5 @@ chmod +x install_osm.sh
 ./install_osm.sh
 ```
 
+ID: admin \
+Pass: admin
